@@ -4,15 +4,15 @@
 The goals / steps of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
-* For test highway images:
-* 1. Apply a distortion correction to raw images.
-* 2. Use color transforms, gradients, etc., to create a thresholded binary image.
-* 3. Apply a perspective transform to rectify binary image ("birds-eye view").
-* 4. Detect lane pixels and fit to find the lane boundary.
-* 5. Determine the curvature of the lane and vehicle position with respect to center.
-* 6. Warp the detected lane boundaries back onto the original image.
-* 7. Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
-* 8. Video pipeline
+For test highway images:
+ 1. Apply a distortion correction to raw images.
+ 2. Use color transforms, gradients, etc., to create a thresholded binary image.
+ 3. Apply a perspective transform to rectify binary image ("birds-eye view").
+ 4. Detect lane pixels and fit to find the lane boundary.
+ 5. Determine the curvature of the lane and vehicle position with respect to center.
+ 6. Warp the detected lane boundaries back onto the original image.
+ 7. Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+ 8. Video pipeline
 
 [//]: # (Image References)
 
